@@ -9,9 +9,7 @@ name: Derek Lee
 description: Agile XP/TDD Engineering @ Pivotal Labs
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
-images/
-https://raw.githubusercontent.com/derekleerock/derekleerock.github.io/master/images/Profile Pic.jpg
+avatar: "https://raw.githubusercontent.com/derekleerock/derekleerock.github.io/master/images/Profile Pic.jpg"
 
 #
 # Flags below are optional
