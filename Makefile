@@ -1,2 +1,2 @@
 start:
-	@jekyll serve --incremental
+	@jekyll serve --incremental --drafts
