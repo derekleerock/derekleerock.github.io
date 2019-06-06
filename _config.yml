@@ -18,7 +18,7 @@ avatar: "https://raw.githubusercontent.com/derekleerock/derekleerock.github.io/m
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email:
   facebook:
   flickr:
   github: derekleerock
@@ -73,8 +73,10 @@ sass:
 
 # Use the following plug-ins
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-sitemap  # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed     # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag  # Add metadata tags for search engines and social networks to better index and display your site's content
+  - jemoji          # GitHub-flavored Emoji plugin for Jekyll
 
 # Exclude these files from your production _site
 exclude:
